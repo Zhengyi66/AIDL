@@ -3,7 +3,7 @@ AIDL实现两个应用间的通信、AIDL实现跨进程通信
 
 实现了客户端和服务端的相互通信
 
-博客地址：https://juejin.im/post/5d26f363f265da1bcf5e062d
+博客地址：https://blog.csdn.net/sjdjdjdjahd/article/details/95352409
 
 运行截图：
 
